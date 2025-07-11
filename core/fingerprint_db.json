@@ -1,0 +1,5 @@
+{
+    "ssh": ["Cowrie", "SSH-2.0-OpenSSH_5.1p1"],
+    "ftp": ["HoneyFTP", "FakeFTP"],
+    "http": ["honeypot"]
+}
